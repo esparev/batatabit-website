@@ -1,2 +1,2 @@
-# Batabit-Website
+# Batabit Website
 Cryptocurrency landing page project
