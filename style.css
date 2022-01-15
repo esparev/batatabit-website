@@ -18,6 +18,7 @@
 html {
   font-size: 62.5%;
   font-family: 'DM Sans', sans-serif;
+  scroll-behavior: smooth;
 }
 header {
   position: relative;
@@ -306,7 +307,7 @@ main {
   padding: 20px 10px;
   background-color: var(--warm-black);
 }
-.main-product-detail--batabit-logo {
+.main-product-detail--batatabit-logo {
   position: absolute;
   width: 40px;
   height: 25px;
