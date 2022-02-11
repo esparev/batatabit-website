@@ -72,10 +72,12 @@ header img {
   box-shadow: 0px 4px 8px rgba(89, 73, 30, 0.16);
   border: none;
   border-radius: 5px;
+  font-family: 'DM Sans', sans-serif;
   font-size: 1.4rem;
   font-weight: bold;
   text-decoration: none;
   color: var(--black);
+  cursor: pointer;
 }
 .header--button span {
   display: inline-block;
@@ -141,7 +143,7 @@ main {
   max-width: 305px;
   height: 360px;
   scroll-snap-align: center;
-  margin: 0 0 0 auto;
+  margin: 0 0 0 70px;
   font-family: 'Inter', sans-serif;
 }
 .main-currency-table .main-currency-table__title {
@@ -232,7 +234,7 @@ main {
   min-width: 235px;
   max-width: 305px;
   height: 360px;
-  margin: 0 auto 0 0;
+  margin: 0 70px 0 0;
   scroll-snap-align: center;
   font-family: 'Inter', sans-serif;
 }
